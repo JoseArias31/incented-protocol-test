@@ -199,3 +199,12 @@ Enable communities and DAOs to harness the collective power of their members thr
 
 **Transparent Task Coordination:**
 Facilitate transparent and efficient coordination of tasks within communities, allowing users to propose, prioritize, and contribute to initiatives.
+
+## Authors 
+
+- [**Incented**](https://github.com/Incented)
+
+- York University (Students):
+  - [@JoseArias31](https://github.com/JoseArias31)
+  - [@Wookie3](https://github.com/Wookie3)
+  - [@nbacc12](https://github.com/nbacc12)
